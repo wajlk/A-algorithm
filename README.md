@@ -1,0 +1,1 @@
+The task of the A-star algorithm is to find the shortest path between two nodes in the graph. This algorithm is often used to find the shortest path on a 2d map. In this case, nodes are different possible positions (fields), and edges from node in the graph lead to adjacent fields
